@@ -1,0 +1,14 @@
+# AI / RAG
+transformers
+langchain
+openai
+
+# Frontend
+streamlit
+streamlit-chat
+plotly
+folium
+
+# Geospatial utils
+geopandas
+shapely
