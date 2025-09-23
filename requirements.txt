@@ -3,7 +3,6 @@
 # --------------------------
 transformers>=4.40.0
 langchain>=0.1.0
-openai>=1.0.0
 sentence-transformers>=2.2.2
 
 # --------------------------
@@ -31,3 +30,4 @@ sqlalchemy>=2.1.0
 # Optional / Misc
 # --------------------------
 numpy>=1.27.0
+
