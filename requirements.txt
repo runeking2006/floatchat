@@ -1,14 +1,33 @@
-# AI / RAG
-transformers
-langchain
-openai
+# --------------------------
+# AI / RAG / LLM
+# --------------------------
+transformers>=4.40.0
+langchain>=0.1.0
+openai>=1.0.0
+sentence-transformers>=2.2.2
 
-# Frontend
-streamlit
-streamlit-chat
-plotly
-folium
+# --------------------------
+# Frontend / Streamlit
+# --------------------------
+streamlit>=1.30.0
+streamlit-chat>=0.0.3
+plotly>=5.20.0
+folium>=0.17.0
 
-# Geospatial utils
-geopandas
-shapely
+# --------------------------
+# Data / Geospatial Utilities
+# --------------------------
+pandas>=2.1.0
+geopandas>=1.2.0
+shapely>=2.1.0
+
+# --------------------------
+# Database / Backend
+# --------------------------
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.1.0
+
+# --------------------------
+# Optional / Misc
+# --------------------------
+numpy>=1.27.0
