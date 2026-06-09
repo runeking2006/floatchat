@@ -44,15 +44,11 @@ Try the following queries in the chat interface:
 
 ## ⚡ How to Run
 
-1. Activate your virtual environment:
-& D:/my_project/venv/Scripts/Activate.ps1
-Run the Streamlit app:
+# Activating:
+Activate your virtual environment & D:/my_project/venv/Scripts/Activate.ps1
 
-bash
-Copy code
-cd D:\floatchat
-streamlit run front_end/app.py
-Open in your browser: http://localhost:8501/
+# Running:
+Run the Streamlit app using cd D:\floatchat then streamlit run front_end/app.py finally Open in your browser: http://localhost:8501/
 
 📌 Notes
 Demo uses a subset of 500 ARGO floats for speed.
