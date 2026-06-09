@@ -41,20 +41,6 @@ Try the following queries in the chat interface:
 
 ---
 
-## 🗂 Project Structure
-
-floatchat/
-├─ front_end/ # Streamlit app and CSS
-├─ utils/ # Visualization utilities
-├─ backend.py # LLM query handling and RAG
-├─ db_config.py # PostgreSQL & ChromaDB connections
-├─ requirements.txt # Python dependencies
-├─ .env # Environment variables
-
-yaml
-Copy code
-
----
 
 ## ⚡ How to Run
 
@@ -84,5 +70,3 @@ Enhanced RAG pipeline for advanced queries
 
 Improved UI/UX and multi-modal visualizations
 
-📄 License
-This README is **hackathon-ready**, shows all the features, instructions, and tech stack, and looks professional for HR viewing.  
